@@ -233,7 +233,7 @@
          ]
       },
       {
-         "identifier":"florka2",
+         "identifier":"flork2",
          "name":"Flork (2)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
@@ -243,7 +243,7 @@
          "license_agreement_website":"",
          "image_data_version":"1",
          "avoid_cache":false,
-         "isAnimated":true,
+         "isAnimated":false,
          "tags":"",
          "stickers":[
             {
