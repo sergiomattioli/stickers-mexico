@@ -4,7 +4,7 @@
    "sticker_packs":[
       {
          "identifier":"worldcup2022mexico",
-         "name":"Mexico 2022",
+         "name":"México 2022",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -133,7 +133,7 @@
       },
       {
          "identifier":"worldcup2022leyends",
-         "name":"Leyends 2022",
+         "name":"Leyendas 2022",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
